@@ -1,3 +1,4 @@
+![logo](https://github.com/mianwaleedirfan/mianwaleedirfan/blob/main/logo.jpg)
 <h1 align="center">Hi 👋, I'm Waleed Irfan</h1>
 <h3 align="center">A passionate Software developer</h3>
 
