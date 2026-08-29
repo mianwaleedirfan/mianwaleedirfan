@@ -30,6 +30,41 @@ Senior AI Engineer with **5+ years of experience** taking deep learning research
 
 ---
 
+### 🚀 Featured Repositories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/mianwaleedirfan/VigilCore">👁️ VigilCore</a></h3>
+      <p><b>Production Visual Intelligence & Real-Time Surveillance Engine</b></p>
+      <p>Low-latency computer vision framework utilizing <b>YOLOv11</b>, <b>TensorRT FP16 quantization</b>, and multi-stream RTSP feed ingestion for edge and cloud deployment.</p>
+      <p><code>Python</code> • <code>PyTorch</code> • <code>TensorRT</code> • <code>OpenCV</code> • <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/mianwaleedirfan/Complete_react_ecommerce_store">🛒 React eCommerce Store</a></h3>
+      <p><b>Modern Full-Stack Commercial Storefront</b></p>
+      <p>Production-ready e-commerce platform built with <b>React</b>, <b>Redux Toolkit</b> state management, Stripe payment processing, and responsive catalog browsing.</p>
+      <p><code>React</code> • <code>Redux</code> • <code>Stripe API</code> • <code>TailwindCSS</code> • <code>Node.js</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/mianwaleedirfan/Inventory-Management-System">📦 Inventory Management</a></h3>
+      <p><b>Enterprise Stock Tracking & Analytics System</b></p>
+      <p>Comprehensive inventory management platform with barcode scanning, automated low-stock notifications, supplier management, and SQL reporting.</p>
+      <p><code>JavaScript</code> • <code>Express</code> • <code>SQL Database</code> • <code>REST API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/mianwaleedirfan/three.js_portfolio">🌐 Three.js 3D Showcase</a></h3>
+      <p><b>Interactive WebGL & 3D Visual Experience</b></p>
+      <p>High-performance 3D interactive graphics using <b>Three.js</b> and custom GLSL shaders, featuring dynamic particle systems and smooth scroll-triggered camera controls.</p>
+      <p><code>Three.js</code> • <code>WebGL</code> • <code>GLSL Shaders</code> • <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 #### **Computer Vision & Deep Learning**
@@ -69,7 +104,7 @@ Senior AI Engineer with **5+ years of experience** taking deep learning research
 ### 📊 GitHub & Open Source Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mianwaleedirfan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="Waleed's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mianwaleedirfan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&count_private=true" alt="Waleed's GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianwaleedirfan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
 </div>
 
